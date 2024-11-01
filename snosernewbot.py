@@ -10,8 +10,7 @@ import time
 import threading
 import psutil
 from aiogram import Bot, Dispatcher, types
-from aiogram.types import Message
-from aiogram import executor
+from aiogram.types import Message
 from aiogram.types import ReplyKeyboardMarkup, KeyboardButton
 from aiogram.types import InlineKeyboardMarkup, InlineKeyboardButton
 from aiogram import types
